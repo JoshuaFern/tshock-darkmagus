@@ -1,0 +1,7 @@
+{
+  "DefineSignCommands": "[SC]",
+  "CommandsStartWith": ">",
+  "FlagsStartWith": "*",
+  "CooldownGroups": {},
+  "ShowDestroyMessage": true
+}

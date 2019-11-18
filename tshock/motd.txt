@@ -1,0 +1,4 @@
+NixOS 19.09 running TShock v4.3.26
+ Type /help for a list of commands.
+%255,000,000%Current map: %map%
+Current players: %players%
