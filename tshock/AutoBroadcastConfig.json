@@ -1,0 +1,26 @@
+{
+  "Broadcasts": [
+    {
+      "Name": "Example Broadcast",
+      "Enabled": false,
+      "Messages": [
+        "This is an example broadcast",
+        "It will broadcast every 5 minutes",
+        "Broadcasts can also execute commands",
+        "/time noon"
+      ],
+      "ColorRGB": [
+        255.0,
+        0.0,
+        0.0
+      ],
+      "Interval": 300,
+      "StartDelay": 60,
+      "TriggerRegions": [],
+      "RegionTrigger": "none",
+      "Groups": [],
+      "TriggerWords": [],
+      "TriggerToWholeGroup": false
+    }
+  ]
+}
